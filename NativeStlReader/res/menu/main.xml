@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cement.stlreader.main.MainActivity" >
+
+    <item
+        android:id="@+id/fileChooser"
+        android:orderInCategory="100"
+        android:title="fileChooser"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/rendererMode"
+        android:orderInCategory="100"
+        android:title="rendererMode"
+        app:showAsAction="never"/>
+
+</menu>
