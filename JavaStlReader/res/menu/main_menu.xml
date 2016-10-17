@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cement.main.MainActivity" >
+
+    <item
+        android:id="@+id/start_earth_activity"
+        android:orderInCategory="100"
+        android:title="start_earth_activity"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/start_stlreader_activity"
+        android:orderInCategory="100"
+        android:title="start_stlreader_activity"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/start_Sphere_activity"
+        android:orderInCategory="100"
+        android:title="start_Sphere_activity"
+        app:showAsAction="never"/>
+
+</menu>
